@@ -1,8 +1,8 @@
 # Course Material
 
-## [GitHub repository](YOUR_LINK)
+## [GitHub repository](https://github.com/pp4rs/2019-foundations-uzh-material)
 
-All our materials are located in a GitHub repository, located [here](YOUR_LINK).
+All our materials are located in a GitHub repository, located [here](https://github.com/pp4rs/2019-foundations-uzh-material).
 
 <!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
