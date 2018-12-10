@@ -32,5 +32,5 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 The suggested citation to be included in any such copies and other derivative work is:
 
 ```
-Lachlan Deer, Adran Etter, Julian Langer & Max Winkler (2017) Programming Practices for Research in Economics, University of Zurich
+Lachlan Deer & Julian Langer (2019) Programming Practices for Research in Economics: Foundations, University of Zurich
 ```
