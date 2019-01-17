@@ -7,7 +7,7 @@
     * Morning - 9.30am - 12.30pm
     * Afternoon - 2.00pm - 5.00pm
 
-    The class rooms will be posted here in due course.
+    Each session will be in SOF-E-15.
 
     <!-- * [SOME ADDRESS](https://www.openstreetmap.org/node/YOUR_LINK), denoted  YOUR_ABBREVATION -->
     <!-- * [Raemistrasse 59](https://www.openstreetmap.org/way/27327898), denoted as RAA
