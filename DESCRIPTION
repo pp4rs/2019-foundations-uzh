@@ -1,7 +1,8 @@
 Lesson: 2019-foundations-uzh
 Title: 2019 Uni Zurich Course Homepage
 Version: 2019.1.0
-Authors: person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = c("aut", "cre"))
+Authors: person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = c("aut", "cre")),
+         person("Julian", "Langer", email = "julian.langer@econ.uzh.ch", role = c("aut", "cre"))
 Maintainer: Lachlan Deer <lachlan.deer@gmail.com>
 Description: Course Homepage. Built using `Mkdocs.`
 License: CC-BY-NC-SA
