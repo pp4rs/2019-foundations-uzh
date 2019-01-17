@@ -13,3 +13,4 @@ The course is run by PhD Students in the Department of Economics.
 # Previous Editions
 
 Links to previous editions of PP4RS courses can be found [here](http://pp4rs.github.io/editions).
+Exact course materials change year to year as instructors and our thoughts about best practice evolve, so previous editions may offer alternative explanations, or materials.
