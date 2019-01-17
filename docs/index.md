@@ -33,7 +33,7 @@ You will need to install the necessary software on to your laptop to bring to th
     Please try and install all the software before the course begins.
     If you are struggling we are able to help - but we expect you have tried to work through the guide yourself.
 
-    Drop Lachlan an email if you need assistance to set up a time to meet.
+    Drop an email to pp4rs.contact@gmail.com if you need assistance and we will set up a time to meet.
 
 ## Slack Chat [<img src="https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png" height="30" />](https://pp4rs.slack.com/)
 
