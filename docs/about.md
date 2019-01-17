@@ -9,3 +9,7 @@ The course is run by PhD Students in the Department of Economics.
 ### Julian Langer
 
 [Julian](http://julianlanger.github.io) is a Doctoral Candidate in the Department of Economics. His research interests lie in economic history and applied econometrics.  Julian is a co-founder of PP4RS, previously teaching in 2016 and 2017.
+
+# Previous Editions
+
+Links to previous editions of PP4RS courses can be found [here](http://pp4rs.github.io/editions).
