@@ -24,7 +24,7 @@ If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). 
 
     To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2019-foundations-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat enviroment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://pp4rs.slack.com).
 
-    We look forward to seeing you for Wednesday, February 13th at 9.30am.
+    We look forward to seeing you on Wednesday, February 13th at 9.30am.
 
     Best,
 
