@@ -26,7 +26,7 @@ Please fill out the pre-course survey before the course begins. You can find it 
 
 You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.
 
-*   The most recent version of the installation guide is [here](https://pp4rs.github.io/foundations-installation-guide/). **It will be updated in mid January, before the course begins**.
+*   The most recent version of the installation guide is [here](https://pp4rs.github.io/foundations-installation-guide/).
 
 
 !!! tip
@@ -39,6 +39,6 @@ You will need to install the necessary software on to your laptop to bring to th
 
 Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.
 
-You will receive an invitation to join the Slack group in Mid January, prior to the beginning of the course
+You will receive an invitation to join the Slack group prior to the beginning of the course
 
 <!-- Click [here](https://pp4rs.slack.com/), or on the icon above, to be redirected to the Slack login page for our course. -->
