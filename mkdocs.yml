@@ -7,7 +7,9 @@ pages:
 - About the Instructors: about.md
 - Acknowledgements: acknowledgements.md
 - License: license.md
-theme: material
+theme:
+    name: material
+    # logo: 'assets/pp4rs.png'
 markdown_extensions:
   - admonition
   - pymdownx.superfences
