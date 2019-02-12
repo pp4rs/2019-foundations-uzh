@@ -1,8 +1,24 @@
 # Course Material
 
-## [GitHub repository](https://github.com/pp4rs/2019-foundations-uzh-material)
-
+### Find Our Material on Github!
 All our materials are located in a GitHub repository, located [here](https://github.com/pp4rs/2019-foundations-uzh-material).
+
+### Day One - Wednesday 13 Feb:
+
+* Introduction
+    - [slides][1]
+
+* Learning to Use the Shell
+    - [slides][2]
+    - [`data-shell.zip`][3]
+
+<!-- here's the links -->
+
+
+[1]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/01-intro/slides-intro.pdf
+[2]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/02-terminal/terminal.pdf
+[3]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/02-terminal/data-shell.zip
+
 
 <!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
