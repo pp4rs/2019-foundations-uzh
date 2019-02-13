@@ -12,14 +12,14 @@ All our materials are located in a GitHub repository, located [here](https://git
     - [slides][2]
     - [`data-shell.zip`][3]
     - [Lachlan's terminal commands][4]
-        - this is what we entered in manually today
+        - this is what we entered in to our terminal today
     - (Boring) review of terminal commands in a silent video
         - [part one][5]
         - [part two][6]
         - *beware* - these are from an older version of the course, so there are differences
 * Git on your machine
     - [Lachlan's terminal commands][7]
-        - this is what we entered in manually today
+        - this is what we entered in to our terminal today
 
 ### Day Two - Thursday 14 Feb:
 
