@@ -11,6 +11,15 @@ All our materials are located in a GitHub repository, located [here](https://git
 * Learning to Use the Shell
     - [slides][2]
     - [`data-shell.zip`][3]
+    - [Lachlan's terminal commands][4]
+        - this is what we entered in manually today
+    - (Boring) review of terminal commands in a silent video
+        - [part one][5]
+        - [part two][6]
+        - *beware* - these are from an older version of the course, so there are differences
+* Git on your machine
+    - [Lachlan's terminal commands][7]
+        - this is what we entered in manually today
 
 <!-- here's the links -->
 
@@ -18,8 +27,10 @@ All our materials are located in a GitHub repository, located [here](https://git
 [1]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/01-intro/slides-intro.pdf
 [2]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/02-terminal/terminal.pdf
 [3]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/02-terminal/data-shell.zip
-
-
+[4]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/02-terminal/terminal_commands_log.txt
+[5]: https://asciinema.org/a/135337
+[6]: https://asciinema.org/a/22LOkjzigHx4UPuJbusfkdeJo
+[7]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/03-git-local/git_command_log.txt
 <!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
 <!-- ## Week 1
