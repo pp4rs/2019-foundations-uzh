@@ -18,12 +18,14 @@ All our materials are located in a GitHub repository, located [here](https://git
         - [part two][6]
         - *beware* - these are from an older version of the course, so there are differences
 * Git on your machine
+    - slides: *to uploaded on Thursday*
     - [Lachlan's terminal commands][7]
         - this is what we entered in to our terminal today
 
 ### Day Two - Thursday 14 Feb:
 
 * Using Git to collaborate
+     - slides: *to uploaded on Thursday*
 * Introduction to `R`
 
 <!-- here's the links -->
