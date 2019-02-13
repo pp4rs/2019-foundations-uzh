@@ -21,6 +21,11 @@ All our materials are located in a GitHub repository, located [here](https://git
     - [Lachlan's terminal commands][7]
         - this is what we entered in manually today
 
+### Day Two - Thursday 14 Feb:
+
+* Using Git to collaborate
+* Introduction to `R`
+
 <!-- here's the links -->
 
 
