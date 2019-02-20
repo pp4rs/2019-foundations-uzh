@@ -18,15 +18,28 @@ All our materials are located in a GitHub repository, located [here](https://git
         - [part two][6]
         - *beware* - these are from an older version of the course, so there are differences
 * Git on your machine
-    - slides: *to uploaded on Thursday*
+    - [slides][16]
     - [Lachlan's terminal commands][7]
         - this is what we entered in to our terminal today
 
 ### Day Two - Thursday 14 Feb:
 
 * Using Git to collaborate
-     - slides: *to uploaded on Thursday*
-* Introduction to `R`
+     - slides: *to be uploaded*
+* [Introduction to `R`][8]
+
+### Day Three - Friday 15 Feb:
+
+* [Intro to `dplyr` and `tidyr`][9]
+* [Intro to `ggplot`][10]
+* [OLS regressions in R][11]
+* Extra material:
+    - [IV regression][12]
+    - [Fixed Effects][13]
+    - [RDD estimation][14]
+    - [Saving and Loading Files][15]
+
+
 
 <!-- here's the links -->
 
@@ -38,6 +51,15 @@ All our materials are located in a GitHub repository, located [here](https://git
 [5]: https://asciinema.org/a/135337
 [6]: https://asciinema.org/a/22LOkjzigHx4UPuJbusfkdeJo
 [7]: https://github.com/pp4rs/2019-foundations-uzh-material/raw/master/03-git-local/git_command_log.txt
+[8]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/0_basics.zip
+[9]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/1_dplyr_tidyr.zip
+[10]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/2_ggplot.zip
+[11]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/4_ols.zip
+[12]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/5_iv.zip
+[13]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/6_fixed_effects.zip
+[14]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/7_rdd.zip
+[15]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/3_io.zip
+[16]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/03-git-local/git-local.pdf
 <!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
 <!-- ## Week 1
