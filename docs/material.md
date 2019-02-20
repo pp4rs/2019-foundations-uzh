@@ -39,7 +39,18 @@ All our materials are located in a GitHub repository, located [here](https://git
     - [RDD estimation][14]
     - [Saving and Loading Files][15]
 
+### Day Four - Saturday 16 Feb:
 
+* [Starting Point][17]
+    - Rscripts and folder structure for MRW replication
+* [Where we ended the day][18]
+    - Adds a `Snakefile` to above to generate all tables and graphs
+    - In class, Lachlan broke the rule to create a table, this fixes it
+* [Extended version][19]
+    - Split Snakefiles into multiple subworkflows
+    - Packrat for version management
+    - Builds pdf of a paper and slides
+* [Notes][20] (A Work in Progress tutorial)
 
 <!-- here's the links -->
 
@@ -60,6 +71,10 @@ All our materials are located in a GitHub repository, located [here](https://git
 [14]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/7_rdd.zip
 [15]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/05-R/3_io.zip
 [16]: https://github.com/pp4rs/2019-foundations-uzh-material/blob/master/03-git-local/git-local.pdf
+[17]: https://github.com/lachlandeer/snakemake-econ-r-learner
+[18]: https://github.com/pp4rs/2019-snakemake-zurich
+[19]: https://github.com/pp4rs/2019-snakemake-zurich/tree/complete_version
+[20]: https://lachlandeer.github.io/snakemake-econ-r-tutorial/
 <!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
 <!-- ## Week 1
