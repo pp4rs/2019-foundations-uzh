@@ -4,6 +4,35 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+!!! bug "Final Assignment"
+    *Date Posted: 2019-02-21*
+
+    Detail about the course assignment:
+
+    * Due date: Saturday, March 16 at 23:59.
+    * Discuss with one of us your proposed assignment before you start
+        * We can evaluate whether it is do-able within the time frame
+        * Don't try and be too fancy, it's more important that it works
+    * The assignment must:
+        - Produce at least one figure and one table of results that are saved to file
+        - Do some form of data cleaning / manipulation as part of the workflow
+            - The initial "dataset" cannot be the one that generates the regression / figures
+        - Use `Snakemake` to execute the workflow
+    * Submission format: Invite @lachlandeer to collaborate on your GitHub repository by the due date. He will potentially allocate another instructor to assess your work.
+        * This means, we expect well version controlled work.
+        * Tag your final submission using the following git command `git tag -a v1.0 -m "submitted version"`
+        * You must have a README.md in the main directory with instructions on how we can build the assignment & what it does.
+    * Explictly document somewhere what packages we need to install so that your assignment runs on our machine with no issues.
+        - *Even better*: use the scripts we provided in the Snakemake example to install needed packages for us
+    * Your assignment must execute by us typing:
+        * `snakemake` (preferred)
+        * `snakemake all`
+      into a terminal that is opened into your project's directory
+    * To pass the course:
+        *  Your code must build without errors (unless we find something really weird, then we will reach out to you)
+        * Must be version controlled, with each contributor making commits. One final commit is not enough.
+        * Inputs and outputs must be in separate folders
+
 !!! note "Welcome Message"
     *Date Posted: 2019-01-21*
 
