@@ -4,6 +4,15 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+!!! note "Example Final Assignment"
+    *Date Posted: 2019-01-24*
+
+    Lachlan has constructed an example final assignment.
+
+    It uses only R packages that were taught in the course, or available in the additional material and a simplified Snakemake set up (particularly for the pdf generation).
+
+    You can check it out [here](https://github.com/lachlandeer/angrist-krueger-1991) 
+
 !!! bug "Final Assignment"
     *Date Posted: 2019-02-21*
 
